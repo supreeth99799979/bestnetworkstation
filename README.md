@@ -10,4 +10,3 @@ you can send a POST request  http://13.48.46.202/bestnetworkstation by passing t
 }
 
 
-Please let me know once you have revieved the solution so that I will remove from AWS, It costs some bucks :). No, I was just kidding :)
